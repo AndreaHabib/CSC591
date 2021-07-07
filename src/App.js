@@ -1,15 +1,13 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <table id="table">
-          <th>
-            Name
-          </th>
+          <th>Name</th>
           <tr>
-            <td>Enter your name here</td>
+            <td>Andrea</td>
           </tr>
         </table>
       </header>
