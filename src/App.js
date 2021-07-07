@@ -7,7 +7,7 @@ function App() {
         <table id="table">
           <th>Name</th>
           <tr>
-            <td>Andrea</td>
+            <td>Gianna</td>
           </tr>
         </table>
       </header>
